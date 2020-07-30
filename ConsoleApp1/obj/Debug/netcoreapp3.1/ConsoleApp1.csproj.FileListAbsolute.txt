@@ -1,0 +1,35 @@
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Documents\Visual Studio 2019\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Documents\Visual Studio 2019\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Documents\Visual Studio 2019\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Documents\Visual Studio 2019\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Documents\Visual Studio 2019\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Documents\Visual Studio 2019\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Documents\Visual Studio 2019\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Documents\Visual Studio 2019\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Documents\Visual Studio 2019\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Documents\Visual Studio 2019\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Documents\Visual Studio 2019\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Veritas\Desktop\Dictionary\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Veritas\Desktop\Dictionary\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Veritas\Desktop\Dictionary\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Veritas\Desktop\Dictionary\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Veritas\Desktop\Dictionary\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Veritas\Desktop\Dictionary\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Veritas\Desktop\Dictionary\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Veritas\Desktop\Dictionary\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Veritas\Desktop\Dictionary\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Veritas\Desktop\Dictionary\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Veritas\Desktop\Dictionary\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Veritas\Desktop\Dictionary\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
